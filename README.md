@@ -1,5 +1,7 @@
 # (EN) Administrative borders of Turkish Districts in SVG Format
 
+![Turkish Disctrict Map In SVG](https://github.com/danyelkoca/turkey_districts_svg/blob/main/turkey_districts_map.jpg)
+
 There is a need for the administrative border map of Turkish districts in SVG format. (District is an administrative unit smaller than a province)
 
 Although some other maps in SVG format, they have frills that are not useful to the end-users. So I decided to keeo the SVG plain-vanilla. Each district has accompanying information such as the province it belongs to. This data should be useful when creating infographics/ manipulating the SVG.
