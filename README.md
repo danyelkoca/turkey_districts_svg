@@ -1,6 +1,6 @@
 # (EN) Administrative borders of Turkish Districts in SVG Format
 
-![Turkish Disctrict Map In SVG](https://github.com/danyelkoca/turkey_districts_svg/blob/main/map_colorful.jpg)
+![Turkish Disctrict Map In SVG](https://github.com/danyelkoca/turkey_districts_svg/blob/main/images/map_colorful.jpg)
 
 There is a need for the administrative border map of Turkish districts in SVG format. (District is an administrative unit smaller than a province)
 
@@ -11,9 +11,10 @@ The resource for this map was obtained from European Council's Eurostat initiati
 Enjoy!
 
 #### Resources
+
 - European Council Database: https://ec.europa.eu/eurostat/web/nuts/local-administrative-units
 
-# (TR) SVG Formatinda Turkiye Ilceleri Haritasi 
+# (TR) SVG Formatinda Turkiye Ilceleri Haritasi
 
 Turkiye'nin SVG formatinda plain-vanilla bir ilce haritasinin internette yoklugu bu harita ile yapilabilecek islere engel teskil ediyor.
 
@@ -22,4 +23,5 @@ SVG haritasi Avrupa Konseyi EuroStat verileri kaynak olarak kullanilmistir. GEOJ
 Keyifli kodlamalar!
 
 #### Kaynaklar
+
 - Avrupa Konseyi Veri Tabani: https://ec.europa.eu/eurostat/web/nuts/local-administrative-units
